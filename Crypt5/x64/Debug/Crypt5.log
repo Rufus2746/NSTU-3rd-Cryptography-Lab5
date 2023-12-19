@@ -1,0 +1,5 @@
+﻿  Crypt5.cpp
+F:\Repositories\VS2022\CHM\Crypt5\Crypt5\Crypt5.cpp(30,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Repositories\VS2022\CHM\Crypt5\Crypt5\Crypt5.cpp(41,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Repositories\VS2022\CHM\Crypt5\Crypt5\Crypt5.cpp(82,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Crypt5.vcxproj -> F:\Repositories\VS2022\CHM\Crypt5\x64\Debug\Crypt5.exe

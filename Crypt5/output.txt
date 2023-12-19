@@ -1,0 +1,3 @@
+Period: 5
+Pearson: 14.5896
+Sequence: [11 ,14 ,5 ,2 ,11],
